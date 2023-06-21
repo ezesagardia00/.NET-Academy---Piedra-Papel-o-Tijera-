@@ -1,0 +1,15 @@
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.csproj.AssemblyReference.cache
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.AssemblyInfoInputs.cache
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.AssemblyInfo.cs
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.csproj.CoreCompileInputs.cache
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\bin\Debug\net7.0\Piedra, Papel o Tijera.exe
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\bin\Debug\net7.0\Piedra, Papel o Tijera.deps.json
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\bin\Debug\net7.0\Piedra, Papel o Tijera.runtimeconfig.json
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\bin\Debug\net7.0\Piedra, Papel o Tijera.dll
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\bin\Debug\net7.0\Piedra, Papel o Tijera.pdb
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.dll
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\refint\Piedra, Papel o Tijera.dll
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.pdb
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\Piedra, Papel o Tijera.genruntimeconfig.cache
+C:\Users\psarmiento20_2836\Desktop\Piedra, Papel o Tijera\obj\Debug\net7.0\ref\Piedra, Papel o Tijera.dll
